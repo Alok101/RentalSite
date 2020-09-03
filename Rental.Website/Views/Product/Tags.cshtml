@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Tags";
+    Layout = "~/Views/Shared/_NonAdminLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-12 col-md-4">
+        <div class="card">
+            <div class="card-header bg-success">Add New Tag</div>
+            <div class="card-body">
+                <form class="needs-validation" novalidate>
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" class="form-control" placeholder="Enter Name" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="slug">Slug</label>
+                        <input type="text" class="form-control" placeholder="Enter Slug" />
+                    </div>
+                    <div class="form-group">
+                        <label for="description">Description</label>
+                        <textarea class="form-control" rows="3" id="description"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-md-8"></div>
+</div>
+

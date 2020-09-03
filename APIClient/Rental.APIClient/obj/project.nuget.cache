@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQf/zTy/OSRPjO4bxY5VdvLkn1cxeVoREgZoBpe8/+aQMjt8rvU4/E6UEjpdnV6cHpF3Fix1Vu9dyFGk9fnQQA==",
+  "success": true,
+  "projectFilePath": "E:\\Project2020\\RentalWebsite\\RentalSite\\APIClient\\Rental.APIClient\\Rental.APIClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alok Gautam\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.4\\microsoft.aspnetcore.jsonpatch.3.1.4.nupkg.sha512",
+    "C:\\Users\\Alok Gautam\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alok Gautam\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

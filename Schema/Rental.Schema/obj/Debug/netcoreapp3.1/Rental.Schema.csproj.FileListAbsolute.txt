@@ -1,0 +1,9 @@
+E:\Project2020\RentalWebsite\RentalSite\Schema\Rental.Schema\bin\Debug\netcoreapp3.1\Rental.Schema.deps.json
+E:\Project2020\RentalWebsite\RentalSite\Schema\Rental.Schema\bin\Debug\netcoreapp3.1\Rental.Schema.dll
+E:\Project2020\RentalWebsite\RentalSite\Schema\Rental.Schema\bin\Debug\netcoreapp3.1\Rental.Schema.pdb
+E:\Project2020\RentalWebsite\RentalSite\Schema\Rental.Schema\obj\Debug\netcoreapp3.1\Rental.Schema.csprojAssemblyReference.cache
+E:\Project2020\RentalWebsite\RentalSite\Schema\Rental.Schema\obj\Debug\netcoreapp3.1\Rental.Schema.csproj.CoreCompileInputs.cache
+E:\Project2020\RentalWebsite\RentalSite\Schema\Rental.Schema\obj\Debug\netcoreapp3.1\Rental.Schema.AssemblyInfoInputs.cache
+E:\Project2020\RentalWebsite\RentalSite\Schema\Rental.Schema\obj\Debug\netcoreapp3.1\Rental.Schema.AssemblyInfo.cs
+E:\Project2020\RentalWebsite\RentalSite\Schema\Rental.Schema\obj\Debug\netcoreapp3.1\Rental.Schema.dll
+E:\Project2020\RentalWebsite\RentalSite\Schema\Rental.Schema\obj\Debug\netcoreapp3.1\Rental.Schema.pdb

@@ -1,0 +1,59 @@
+﻿@model AttributeViewModel
+
+@{
+    ViewData["Title"] = "Attributes";
+    Layout = "~/Views/Shared/_NonAdminLayout.cshtml";
+}
+    <div class="row">
+        <div class="col-12 col-md-4">
+            <div class="card">
+                <div class="card-header bg-success">
+                    Add New Attributes
+                </div>
+                <div class="card-body">
+                    <form class="needs-validation" asp-action="attributes" asp-controller="product" method="post" novalidate>
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" asp-for="Name" class="form-control" placeholder="Enter Attribute Name" required />
+                            <div class="valid-feedback">Valid.</div>
+                            <div class="invalid-feedback">Please fill out this field.</div>
+                        </div>
+                        <div class="form-group">
+                            <label for="slug">Slug</label>
+                            <input type="text" asp-for="Slug" class="form-control" placeholder="Enter Slug" />
+                        </div>
+                        <div class="form-group">
+                            <label for="type">Type</label>
+                            <select class="form-control" asp-for="Type" >
+                                <option value="1">Select</option>
+                                <option value="2">Text</option>
+                                <option value="3">Color Picker</option>
+                                <option value="4">Image Select</option>
+                                <option value="5">Text Label</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="order">Default Sort Order</label>
+                            <select class="form-control" asp-for="DefaultSortOrder">
+                                <option value="1">Custom Ordering</option>
+                                <option value="2">Name</option>
+                                <option value="3">Name(Numeric)</option>
+                                <option value="4">TermId</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="description">Description</label>
+                            <textarea class="form-control" rows="3" asp-for="Description"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-8">
+
+        </div>
+    </div>
+
+
+

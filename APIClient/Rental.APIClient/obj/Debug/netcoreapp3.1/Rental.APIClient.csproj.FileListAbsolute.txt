@@ -1,0 +1,12 @@
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\bin\Debug\netcoreapp3.1\Rental.APIClient.deps.json
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\bin\Debug\netcoreapp3.1\Rental.APIClient.dll
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\obj\Debug\netcoreapp3.1\Rental.APIClient.csprojAssemblyReference.cache
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\obj\Debug\netcoreapp3.1\Rental.APIClient.AssemblyInfoInputs.cache
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\obj\Debug\netcoreapp3.1\Rental.APIClient.AssemblyInfo.cs
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\bin\Debug\netcoreapp3.1\Rental.APIClient.pdb
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\bin\Debug\netcoreapp3.1\Rental.Schema.dll
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\bin\Debug\netcoreapp3.1\Rental.Schema.pdb
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\obj\Debug\netcoreapp3.1\Rental.APIClient.csproj.CopyComplete
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\obj\Debug\netcoreapp3.1\Rental.APIClient.dll
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\obj\Debug\netcoreapp3.1\Rental.APIClient.pdb
+E:\Project2020\RentalWebsite\RentalSite\APIClient\Rental.APIClient\obj\Debug\netcoreapp3.1\Rental.APIClient.csproj.CoreCompileInputs.cache
